@@ -69,6 +69,3 @@ st.warning(
     "Educational prototype only. This model is not a "
     "clinically validated diagnostic tool. Consult a qualified doctor."
 )
-
-    "clinically validated diagnostic tool. Consult a qualified doctor."
-)
