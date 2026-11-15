@@ -47,7 +47,7 @@ The Streamlit application allows users to:
 - View prediction confidence scores.
 
 ## Live Demo
-[Add your Streamlit application URL here]
+[Open Live Application](https://pneumonia-detection-vgg16.streamlit.app/)
 
 ## How to Run Locally
 
